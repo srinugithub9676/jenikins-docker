@@ -8,7 +8,7 @@ public class SpringBootRestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootRestApplication.class, args);
-		System.out.println("main commit aaasfdd");
+		System.out.println();
 	}
 
 }
